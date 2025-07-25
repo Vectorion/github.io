@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Gratis Saya</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        h1 { color: #25D366; }
+    </style>
+</head>
+<body>
+    <h1>Selamat Datang di Website Saya!</h1>
+    <p>Ini adalah contoh landing page gratis di GitHub Pages.</p>
+    <p>🚀 Dibuat dalam 5 menit!</p>
+</body>
+</html>
